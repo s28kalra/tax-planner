@@ -1,5 +1,7 @@
 # Tax Planner — Indian Income Tax Analyzer
 
+**Live App:** https://tax-planner-tau.vercel.app/
+
 A web app for Indian salaried employees to compare the **Old vs New tax regime**, get AI-powered explanations, and optimize their tax planning.
 
 ---
